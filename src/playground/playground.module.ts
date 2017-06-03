@@ -11,7 +11,7 @@ import {DataService} from './data.service';
 @NgModule({
   imports: [
     CommonModule,
-    MaterialModule.forRoot(),
+    MaterialModule,
     InMemoryWebApiModule.forRoot(InMemDataService, {delay: 1000})
   ],
   declarations: [PlaygroundComponent],
