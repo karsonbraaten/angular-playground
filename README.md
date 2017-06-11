@@ -3,7 +3,7 @@ A fun place to play with Angular.
 
 ## Getting Started
 ```
-npm install
-npm start
+yarn install
+yarn start
 ```
-Then open [http://localhost:8080](http://localhost:8080/)
+Then open [http://localhost:4000](http://localhost:4000/)
